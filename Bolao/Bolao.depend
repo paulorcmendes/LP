@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1453818584 source:e:\lp\bolao\main.c
+	<time.h>
+	"bolao.h"
+
+1453753202 source:e:\lp\bolao\bolao.c
+	"bolao.h"
+
+1453835604 e:\lp\bolao\bolao.h
+	<stdlib.h>
+	<stdio.h>
+
+1453855270 source:f:\lp\bolao\bolao.c
+	"bolao.h"
+
+1453855466 f:\lp\bolao\bolao.h
+	<stdlib.h>
+	<stdio.h>
+
+1453818584 source:f:\lp\bolao\main.c
+	<time.h>
+	"bolao.h"
+

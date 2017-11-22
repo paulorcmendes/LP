@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1453320288 source:e:\lp\circulotudonomesmo\circulomesmoprojeto\main.c
+
+1453320722 source:e:\lp\circulotudonomesmo\circulomesmoprojeto\circulo.c
+	"circulo.h"
+	<math.h>
+
+1453320898 e:\lp\circulotudonomesmo\circulomesmoprojeto\circulo.h
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1453321224 source:e:\lp\testedocirculo\main.c
+	"circulo.h"
+
+1453321084 e:\lp\bibliotecas\circulo\circulo.h
+	<math.h>
+
